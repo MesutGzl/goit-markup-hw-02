@@ -9,10 +9,52 @@ header nav .header-nav-logo{
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-decoration: none;
     text-transform: uppercase;
     color: #4d5ae5;
     
 }
 header nav .header-nav-logo-span{
     color: #2e2f42;
+}
+
+header nav .header-nav-items{
+    list-style-type: none;
+}
+header nav .header-nav-list{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-decoration: none;
+}
+
+header nav .header-nav-list:hover{
+    color: #404bbf;
+}
+header nav .header-nav-list:focus{
+    color: #404bbf;
+}
+
+header address .address-items{
+    font-style: normal;
+}
+header ul{
+    list-style-type: none;
+}
+
+header a {
+    
+}
+
+header address .address-list li a{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
+}
+header address .address-list li a:hover{
+    color: #404bbf;
+}
+header address .address-list li a:focus{
+    color: #404bbf;
 }
