@@ -44,6 +44,10 @@ header address .address-items{
   font-style: normal;
 }
 
+header address .header-address{
+  font-style: normal;
+}
+
 header address .address-list li a {
   font-style: normal;
   line-height: 1.5;
