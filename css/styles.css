@@ -165,8 +165,12 @@ main .fourth-section-p-items{
   background-color: #2e2f42;
 }
 
+.footer-class{
+  font-family: "Raleway";
+}
 .footer-logo{
   font-family: "Raleway";
+  font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -182,7 +186,4 @@ main .fourth-section-p-items{
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
-}
-img{
-  width: 360px;
 }
