@@ -103,13 +103,14 @@ main .second-section.list.h3.items {
 main .second-section.list.p.items {
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-size: 16px;
 }
 
-main .third-section{
+main .third-section {
   background-color: #f4f4fd;
 }
 
-main .third-section-banner{
+main .third-section-banner {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -118,11 +119,11 @@ main .third-section-banner{
   color: #2e2f42;
 }
 
-main .third-section-list{
+main .third-section-list {
   background-color: #ffffff;
 }
 
-main .third-section-h3-items{
+main .third-section-h3-items {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -130,7 +131,7 @@ main .third-section-h3-items{
   color: #2e2f42;
 }
 
-main .third-section-p-items{
+main .third-section-p-items {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
