@@ -175,11 +175,14 @@ main .fourth-section-p-items{
 }
 
 .footer-span{
-  color: #ffffff;
+  color: #2e2f42;
 }
 
 .footer-p-item{
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+}
+img{
+  width: 360px;
 }
