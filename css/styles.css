@@ -81,11 +81,12 @@ main .first-section-button{
   font-size: 16px;
   line-height: 1.5;
   color: #ffffff;
+  letter-spacing: 0.04em;
+  cursor: pointer;
 }
 
 main .first-section-button:hover{
   background-color: #404bbf;
-  cursor: pointer;
 }
 
 main .first-section-button:focus{
