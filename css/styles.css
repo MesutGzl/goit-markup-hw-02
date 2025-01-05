@@ -184,6 +184,7 @@ main .fourth-section-p-items {
 footer a {
   font-family: "Raleway", sans-serif;
 }
-.footer-span {
+.footer-logo-span {
   color: #2e2f42;
+  font-family: "Raleway";
 }
