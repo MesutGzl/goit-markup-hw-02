@@ -181,13 +181,13 @@ main .fourth-section-p-items{
   color: #4d5ae5;
 }
 
-.footer-span{
+span{
   color: #2e2f42;
 }
 
 .footer-p-item{
   line-height: 1.5;
-  color: #2e2f42;
+  color: #f4f4fd;
   letter-spacing: 0.02em;
 }
 
