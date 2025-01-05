@@ -6,6 +6,9 @@ body {
 header .nav-bar-section {
   font-family: "Raleway";
 }
+header nav a{
+  font-family: "Raleway", sans-serif;
+}
 header nav .header-nav-logo {
   font-family: "Raleway";
   font-weight: 700;
@@ -184,6 +187,10 @@ main .fourth-section-p-items{
 
 .footer-p-item{
   line-height: 1.5;
-  color: #f4f4fd;
+  color: #2e2f42;
   letter-spacing: 0.02em;
+}
+
+footer a {
+  font-family: "Raleway", sans-serif;
 }
