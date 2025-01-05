@@ -3,7 +3,7 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-header .nav-bar-section{
+header .nav-bar-section {
   font-family: "Raleway";
 }
 header nav .header-nav-logo {
@@ -44,7 +44,7 @@ header ul {
   font-style: normal;
 }
 
-address{
+address {
   font-style: normal;
 }
 
@@ -62,11 +62,11 @@ header address .address-list li a:focus {
   color: #404bbf;
 }
 
-main .first-section{
+main .first-section {
   background-color: #2e2f42;
 }
 
-main .first-section-banner{
+main .first-section-banner {
   color: #ffffff;
   font-size: 56px;
   line-height: 1.07;
@@ -74,7 +74,7 @@ main .first-section-banner{
   text-align: center;
 }
 
-main .first-section-button{
+main .first-section-button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -85,11 +85,53 @@ main .first-section-button{
   cursor: pointer;
 }
 
-main .first-section-button:hover{
+main .first-section-button:hover {
   background-color: #404bbf;
 }
 
-main .first-section-button:focus{
+main .first-section-button:focus {
   background-color: #404bbf;
 }
 
+main .second-section.list.h3.items {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+main .second-section.list.p.items {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+main .third-section{
+  background-color: #f4f4fd;
+}
+
+main .third-section-banner{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+main .third-section-list{
+  background-color: #ffffff;
+}
+
+main .third-section-h3-items{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+main .third-section-p-items{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
