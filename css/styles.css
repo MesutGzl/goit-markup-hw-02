@@ -3,14 +3,8 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-header .nav-bar-section {
-  font-family: "Raleway";
-}
-header nav a{
-  font-family: "Raleway", sans-serif;
-}
 header nav .header-nav-logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
