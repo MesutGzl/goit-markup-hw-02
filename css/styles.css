@@ -93,14 +93,14 @@ main .first-section-button:focus {
   background-color: #404bbf;
 }
 
-main .second-section.list.h3.items {
+main .second-section-h3-items{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-main .second-section.list.p.items {
+main .second-section-p-items {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-size: 16px;
