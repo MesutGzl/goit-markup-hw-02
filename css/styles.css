@@ -93,7 +93,7 @@ main .first-section-button:focus {
   background-color: #404bbf;
 }
 
-main .second-section-h3-items{
+main .second-section-h-items{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -123,7 +123,7 @@ main .third-section-list {
   background-color: #ffffff;
 }
 
-main .third-section-h3-items {
+main .third-section-h-items {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -146,7 +146,7 @@ main .fourth-section-banner{
   color: #2e2f42;
 }
 
-main .fourth-section-h3-items{
+main .fourth-section-h-items{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -166,10 +166,10 @@ main .fourth-section-p-items{
 }
 
 .footer-class{
-  font-family: "Raleway";
+  font-family: "Raleway",sans-serif;
 }
 .footer-logo{
-  font-family: "Raleway";
+  font-family: "Raleway",sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
